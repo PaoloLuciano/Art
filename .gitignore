@@ -1,0 +1,5 @@
+img/everything/
+*.RData
+*.Rhistory
+*.Rproj
+*.Rproj.user
